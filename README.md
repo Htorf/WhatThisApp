@@ -2,6 +2,12 @@
 
 *Projet réalisé par Hadrien Torrin et Quentin Parenti dans le cadre du MOS 5.5 de l'Ecole Centrale Lyon*
 
+## liens utiles:
+
+lien du gdoc: https://docs.google.com/document/d/1VOVWwUy8KcJX12FCiSgTmHfniwins8xS8_SDP4HETBc/edit?usp=sharing
+lien du googlesheet: https://docs.google.com/spreadsheets/d/12kn-U0xH8ii1Mv_nCxE6BW5Fj2bo3py_ueFHi3rUJ6A/edit#gid=1311625435
+
+
 ## Contexte:
 
 L’application WhatsApp (avec d’autres concurrents: Messenger, Telegram..)  est depuis quelques années, et pour de nombreuses personnes, devenue une alternative au SMS conventionnels. 
@@ -42,5 +48,5 @@ En fonction de la mémoire disponible sur le téléphone (ou sur un cloud) et al
 
 Une conversation étant privée elle contient évidemment des données sensibles que l'utilisateur ne souhaite pas partager. Il se peut que l’application se limite au nombre de message plutôt qu’à leur contenu ce qui annulera ce problème. Dans tous les cas chaque utilisateur utilisera ses données qui ne seront pas visible par autrui.
 
-lien du gdoc: https://docs.google.com/document/d/1VOVWwUy8KcJX12FCiSgTmHfniwins8xS8_SDP4HETBc/edit?usp=sharing
+
 
