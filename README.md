@@ -25,17 +25,17 @@ Tout utilisateurs de WhatsApp souhaitant avoir des informations ou simplement cu
 
 WhatsApp propose un fichier texte construit comme suit:
 
-[JJ/MM/AAAA] Utilisateur: Contenu du message
+*[JJ/MM/AAAA] Utilisateur: Contenu du message*
 
 Un script python (disponible au telechargement) transforme facilement cela en un fichier excel à trois colonnes:
 
-Date | Utilisateur | Contenu du message
+*Date | Utilisateur | Contenu du message*
 
 Pour commencer à faire des tests, on a utilisé une de nos conversations.
 
 ## Quels sont les principaux risques de collection et visualisation de ces données ?
 
-En fonction de la mémoire disponible sur le téléphone (ou sur un cloud) et alloué à WhatsApp, il se peut que les conversations ne soient pas stockées dans leur intégralité, limitant ainsi la pertinence de l’application.
+En fonction de la mémoire disponible sur le téléphone (ou sur un cloud) et allouée à WhatsApp, il se peut que les conversations ne soient pas stockées dans leur intégralité, limitant ainsi la pertinence de l’application.
 
 
 ## Quels sont les possibles problèmes éthiques/données privées ?
