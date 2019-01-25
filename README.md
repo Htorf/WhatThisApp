@@ -1,6 +1,6 @@
 # WhatThisApp
 
-Projet réalisé par Hadrien TOrrin et Quentin Parenti dans le cadre du MOS 5.5 de l'Ecole Centrale Lyon
+*Projet réalisé par Hadrien Torrin et Quentin Parenti dans le cadre du MOS 5.5 de l'Ecole Centrale Lyon*
 
 ## Contexte:
 
@@ -24,9 +24,11 @@ Tout utilisateurs de WhatsApp souhaitant avoir des informations ou simplement cu
 ## Les données:
 
 WhatsApp propose un fichier texte construit comme suit:
+
 [JJ/MM/AAAA] Utilisateur: Contenu du message
 
 Un script python (disponible au telechargement) transforme facilement cela en un fichier excel à trois colonnes:
+
 Date | Utilisateur | Contenu du message
 
 Pour commencer à faire des tests, on a utilisé une de nos conversations.
