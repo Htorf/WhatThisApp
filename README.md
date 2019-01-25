@@ -24,11 +24,11 @@ Les données:
 WhatsApp propose un fichier texte construit comme suit:
 [JJ/MM/AAAA] Utilisateur: Contenu du message
 
-Un script python (par exemple) transforme facilement cela en un fichier excel à trois colonnes:
+Un script python (disponible au telechargement) transforme facilement cela en un fichier excel à trois colonnes:
 Date | Utilisateur | Contenu du message
 
 Pour commencer à faire des tests, on a utilisé une de nos conversations.
-
+
 Quels sont les principaux risques de collection et visualisation de ces données ?
 
 En fonction de la mémoire disponible sur le téléphone (ou sur un cloud) et alloué à WhatsApp, il se peut que les conversations ne soient pas stockées dans leur intégralité, limitant ainsi la pertinence de l’application.
@@ -37,4 +37,6 @@ En fonction de la mémoire disponible sur le téléphone (ou sur un cloud) et al
 Quels sont les possibles problèmes éthiques/données privées ?
 
 Une conversation étant privée elle contient évidemment des données sensibles que l'utilisateur ne souhaite pas partager. Il se peut que l’application se limite au nombre de message plutôt qu’à leur contenu ce qui annulera ce problème. Dans tous les cas chaque utilisateur utilisera ses données qui ne seront pas visible par autrui.
+
+lien du gdoc: https://docs.google.com/document/d/1VOVWwUy8KcJX12FCiSgTmHfniwins8xS8_SDP4HETBc/edit?usp=sharing
 
