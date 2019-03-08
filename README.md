@@ -49,4 +49,8 @@ En fonction de la mémoire disponible sur le téléphone (ou sur un cloud) et al
 Une conversation étant privée elle contient évidemment des données sensibles que l'utilisateur ne souhaite pas partager. Il se peut que l’application se limite au nombre de message plutôt qu’à leur contenu ce qui annulera ce problème. Dans tous les cas chaque utilisateur utilisera ses données qui ne seront pas visible par autrui.
 
 
+## Apercu de la Visualisation
 
+
+ <img src="img/apercu.png" >
+    
