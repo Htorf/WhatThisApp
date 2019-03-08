@@ -1,6 +1,6 @@
 # WhatThisApp
 
-*Projet réalisé par Hadrien Torrin et Quentin Parenti dans le cadre du MOS 5.5 de l'Ecole Centrale Lyon*
+*Projet réalisé par Hadrien Torrin, Quentin Parenti et Simon Gaillard dans le cadre du MOS 5.5 de l'Ecole Centrale Lyon*
 
 ## liens utiles:
 
@@ -37,7 +37,7 @@ Un script python (disponible au telechargement) transforme facilement cela en un
 
 *Date | Utilisateur | Contenu du message*
 
-Pour commencer à faire des tests, on a utilisé une de nos conversations.
+Pour la présentation, nous avons utilisé une de nos conversations en modifiant les noms des participants.
 
 ## Quels sont les principaux risques de collection et visualisation de ces données ?
 
