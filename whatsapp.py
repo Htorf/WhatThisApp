@@ -6,7 +6,7 @@ Created on Mon Jan 14 14:43:06 2019
 """
 import csv
 
-fichier=open("_chat.txt",encoding="utf8")
+fichier=open("chat.txt",encoding="utf8")
 c=csv.writer(open("Données.csv","w",encoding="utf8"))
 c.writerow(["Date","Auteur","Message"])
 
