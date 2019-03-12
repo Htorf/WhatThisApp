@@ -62,3 +62,8 @@ Une conversation étant privée elle contient évidemment des données sensibles
 La partie supérieure est un calendrier montrant le nombre de message par jour dans cette conversation grâce à une echelle de couleur (vert foncé > beaucoup de message, blanc > pas de message)
 
 La partie inférieure est un graphique intéractif, la partie de gauche présente le nombre de message par mois, le chart de droite montre la part de chaque participant. En passant sa souris sur un des mois, le graphique de droite se met à jour et affiche les sous-totaux pour le mois choisi. En passant sa souris sur un des participants sur le graphique de droite, le chart de gaiche se met à jour pour afficher le nombre de messages par mois de cet utilisateur uniquement. 
+
+## Remerciements
+
+Merci à Pasha (https://bl.ocks.org/NPashaP) dont nous avons repris le diagramme pour une partie de notre visualisation.
+
